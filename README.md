@@ -11,3 +11,11 @@ Originally, you would only find Illuminated manuscripts in certain gospel books.
 
 # Historical Context
 The Vatican Vergil was beleived to be created for a wealthy artistocrate. Even though the text has been reduced over the years, it is still known to be the most impressive surviving example of illustrated classical literary text.The Vatican Vergile is composed of many images. In the earlier illustrated images, they would only have a title above the illustration. Pages were composed on parchment but were damaged for how often the Vatican Vergil was transported. This is another reason why the Vatican is so important. Illustrations could easily be created with parchment. Parchment is made normally from animal skins such as sheep, which made it available wherever they were (Which was everywhere). This made illustrations much more available. 
+
+# The Adaptation
+(Still creating my image on Adobe Illustrator)
+
+# Rhetorical Significance
+
+# Reflection
+
