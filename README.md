@@ -5,5 +5,6 @@ Illuminations were a way to bring together the meaning of a text through an imag
 # Why The Vatican Vergil?
 The Vatican Vergil is one of the oldest lasting Illustrated manuscripts. It was created in Rome around 400 AD. Being one of the last surviving Illuminations, The Vatican Vergil was a first of its kind. This was the start of the illumination manuscripts era. 
 
+![Vatican Illumination](Vatican.png)
 
 Originally, you would only find Illuminated manuscripts in certain gospel books. Overtime as it gradually became more popular, they would illuminate complete bibles. In the Vatican Vergil image we see the text placed above and the image below. However, it is known for it's bright red surrounding becuase it seperates itself from the rest of the text. This took craftsmenship and images like the Vatican Vergil were only found belonging to people of wealth. As this design begane to become more popular, it hit larger market cities like Paris. As we look at the Vatican Vergil, there isn't emply space between text and image. After writing the text, they would use any empty space for illustrations, giving it a clean and organized look.
