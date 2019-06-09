@@ -18,7 +18,9 @@ I work in marketing at my organization so I created a social media advertisment 
 ![biit](biit.png)
 
 # Qualities
-When creating the ad, I wanted to keep the image simple, yet attractive. I wanted the image to bring them in, and if they make it to the text that's great. 
+When creating the ad, I wanted to keep the image simple, yet attractive. I wanted the image to bring them in, and if they make it to the text that's great. I wanted to relate to them. In the second ad, I kept the same wording but changed the image. I used photoshop to turn out logo into a wood carving to relate to carpenters. I only used three words, Savings, Service, and Expertise. I wanted the auidence to see these with the wood logo, and think what is this? Then they go into the text to learn more. 
+
+
 
 # Culteral Meaning
 
@@ -28,9 +30,12 @@ Over the years we have seen this format change, take the newspaper for example. 
 
 
 # Reflection
+
 # Bibliography
 Ordenes, F. V., Grewal, D., Ludwig, S., Ruyter, K. D., Mahr, D., & Wetzels, M. (2019). Cutting through Content Clutter: How Speech and Image Acts Drive Consumer Sharing of Social Media Brand Messages. Journal of Consumer Research, 45(5), 988–1012
+
 Arogundade, O. T. (2017). Consumer, Marketing and Advertising Psychology. IFE PsychologIA, 25(1), 569–574. 
+
 Hongsik John Cheon, Chang-Hoan Cho, & Sutherland, J. (2007). A Meta-Analysis of Studies on the Determinants of Standardization and Localization of International Marketing and Advertising Strategies. Journal of International Consumer Marketing, 19(4), 109–147.
 
 
