@@ -3,11 +3,9 @@
 
 
 # Why The Vatican Vergil?
-The reason why I wanted to research The Vatican Vergil is because we see this style of text used everyday in the marketing world. The Vatican was the first of it's kind to present an image like this. 
-
+The reason why I wanted to research The Vatican Vergil is because this style of text is a very popular marketing stradegy today. With an increase in social media, research shows that 59% of global customers use social media as their motivation to purchase. A majority of social media is used to images like Instagram and Facebook. With people constantly on their phones, incorperating your prodcut with an image brings them in, then the text gives them more information. The main point is that consumers have an attention span of about 3 seconds, you can't sell them in 3 seconds on words, you need imagary. The Vatican was the first to incorperate this style of presenting a text.
 ![Vaitcan](Vatican.png)
 
-Never before did they incorperate images with meaninful text. This is a common trend in the marketing world because it gives the reader some context before even reading. It is proven that when advertising with just a block of text, a large percentage of the audience is not going to read it. Time is precious, you only have about 2 seconds to engage with somebody when marketings your product to them through a platform that is not you. When somebody is scrolling through their timeline, they are more likely to stop if your product is promoted with a attractive image, solid information, and something to catch them, like in the Vatican Vergile, the bright red outline. 
 
 
 
@@ -16,7 +14,8 @@ The Vatican Vergil was beleived to be created for a wealthy artistocrate. Even t
 
 
 # The Adaptation
-(Still creating my image on Adobe Illustrator)
+![biit](biit.jpg)
+
 
 # Rhetorical Significance
 
