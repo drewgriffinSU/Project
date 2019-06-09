@@ -19,7 +19,7 @@ I work in marketing at my organization so I created a social media advertisment 
 
 # Qualities
 When creating the ad, I wanted to keep the image simple, yet attractive. I wanted the image to bring them in, and if they make it to the text that's great. I wanted to relate to them. In the second ad, I kept the same wording but changed the image. I used photoshop to turn out logo into a wood carving to relate to carpenters. I only used three words, Savings, Service, and Expertise. I wanted the auidence to see these with the wood logo, and think what is this? Then they go into the text to learn more. 
-
+![biitad](biitad.png)
 
 
 # Culteral Meaning
