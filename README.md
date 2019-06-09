@@ -20,7 +20,7 @@ I work in marketing at my organization so I created a social media advertisment 
 ![biit](biit.png)
 
 # Qualities
-When creating the ad, I wanted to keep the image simple, yet attractive. I wanted the image to bring them in, and if they make it to the text that's great. I wanted to relate to them. In the second ad, I kept the same wording but changed the image. I used photoshop to turn out logo into a wood carving to relate to carpenters. I only used three words, Savings, Service, and Expertise. I wanted the auidence to see these with the wood logo, and think what is this? Then they go into the text to learn more. 
+When creating the ad, I wanted to keep the image simple, yet attractive. I wanted the image to bring them in, and if they make it to the text that's great. I wanted to relate to them. In the second ad, I kept the same wording but changed the image. I used photoshop to turn out logo into a wood carving to relate to carpenters. I only used three words, Savings, Service, and Expertise. These 3 words summarize what the main compenents in my blurb. I wanted the auidence to see these with the wood logo, and think what is this? Then they go into the text to learn more. The focal point is the logo.
 
 ![biitad](biitad.png)
 
@@ -32,7 +32,7 @@ Throughout history, there have been many different strategies to present informa
 
 
 # Rhetorical Significance
-
+My adapation is specificly targeting building industry companies in Metropolitan Portland. Debord states "the target audience of the communication is known as the receiver. A receiver can be identified as anyone who is taking in this information". Hey also mentiones how the receiver can take in the message through the text in multiple different ways. From my adaptation, you can relate to the construction industry by seeing the construction workers point to the logo which says "Building Industry Insurance Trust". They know they are the audience becuase it mentions it is for members that belong to the HBA of Portland. They also get a summary of the informatino for the key words in the image. Then they get the entire scope of the message in the blurb above the image. This ad is used to pursuad the receiver that they qualify for this trust and can be saving on their insurance preiums. 
 
 
 # Reflection
