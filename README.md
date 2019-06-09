@@ -14,8 +14,11 @@ The Vatican Vergil was beleived to be created for a wealthy artistocrate. Even t
 
 
 # The Adaptation
-I work in marketing at my organization so I created a social media advertisment for one of our trusts. We actually ran this as a paid advertisment and received tremedous results. We are a health trust specifically desgined for construction/home builders in metropolitan portland. I used our logo with the construction workers because they can relate to this.   
+I work in marketing at my organization so I created a social media advertisment for one of our trusts. We actually ran this as a paid advertisment and received tremedous results. We are a health trust specifically desgined for construction/home builders in metropolitan portland. I used our logo with the construction workers because it connects insurance with construction. Then in my blurb, I talk about savings, expertise, and how great these employee benefits are. I've caught their attention, pitched them on the positives, and how they can receive a free quote instantly. The message is quick and straight to the point, only selling them on positives. Employee benefits is a confusing process and nobody likes to deal with it, the purpose of the ad is to make it sound easy and simple.
 ![biit](biit.png)
+
+# Qualities
+When creating the ad, I wanted to keep the image simple, yet attractive. I wanted the image to bring them in, and if they make it to the text that's great. 
 
 # Culteral Meaning
 
