@@ -52,5 +52,7 @@ My adapation is specificly targeting building industry companies in Metropolitan
 
 7) Giacometti, A., Campagnolo, A., MacDonald, L., Mahony, S., Robson, S., Weyrich, T., … Gibson, A. (2017). The value of critical destruction: Evaluating multispectral image processing methods for the analysis of primary historical texts. Digital Scholarship in the Humanities, 32(1), 101–122
 
+8) Wright, David H. "FROM COPY TO FACSIMILE: A MILLENNIUM OF STUDYING THE VATICAN VERGIL." The British Library Journal 17.1 (1991): 12-35. Web.
+
 
 
