@@ -39,11 +39,11 @@ My adapation is specificly targeting building industry companies in Metropolitan
 # Bibliography
 1)Ordenes, F. V., Grewal, D., Ludwig, S., Ruyter, K. D., Mahr, D., & Wetzels, M. (2019). Cutting through Content Clutter: How Speech and Image Acts Drive Consumer Sharing of Social Media Brand Messages. Journal of Consumer Research, 45(5), 988–1012
 
-2)Arogundade, O. T. (2017). Consumer, Marketing and Advertising Psychology. IFE PsychologIA, 25(1), 569–574. 
+2) Arogundade, O. T. (2017). Consumer, Marketing and Advertising Psychology. IFE PsychologIA, 25(1), 569–574. 
 
-3)Hongsik John Cheon, Chang-Hoan Cho, & Sutherland, J. (2007). A Meta-Analysis of Studies on the Determinants of Standardization and Localization of International Marketing and Advertising Strategies. Journal of International Consumer Marketing, 19(4), 109–147.
+3) Hongsik John Cheon, Chang-Hoan Cho, & Sutherland, J. (2007). A Meta-Analysis of Studies on the Determinants of Standardization and Localization of International Marketing and Advertising Strategies. Journal of International Consumer Marketing, 19(4), 109–147.
 
-4)Irmia, R, Gottschling M (2016) Taxonomic revision of Rochefortia Sw. (Ehretiaceae, Boraginales). Biodiversity Data Journal 4: E7720.
+4) Irmia, R, Gottschling M (2016) Taxonomic revision of Rochefortia Sw. (Ehretiaceae, Boraginales). Biodiversity Data Journal 4: E7720.
 
 5) Tilley, C., Spyer, P., Keane, W., Küchler, S., & Rowlands, M. (2017). Handbook of material culture. London: SAGE Publications.
 
