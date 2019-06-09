@@ -3,8 +3,7 @@
 The world of marketing and advertising in constantly changing. Companies are constantly having to revamp the way they sell their products. The main focus is communication. How are you going to display your message to your audience? The Vatican Vergil is one of the last stadning historical texts and completely changed the way you display your message. It was the first to incorperate an image with text to draw the audience in. It covers the 3 key factors that we use in advertising today. An attention graber, an attractive image, and context. The Vatican Vergil draws you in with the red outline around the image, the image makes you curious to what this could be about, and the text sells you on what it really is. We refer to this today as an Affective Ad Appeal.
 
 # Why The Vatican Vergil?
-The reason why I wanted to research The Vatican Vergil is because this style of text is a very popular marketing stradegy today. With an increase in social media, research shows that 59% of global customers use social media as their motivation to purchase. A majority of social media is used to images like Instagram and Facebook. With people constantly on their phones, incorperating your prodcut with an image brings them in, then the text gives them more information. The main point is that consumers have an attention span of about 3 seconds, you can't sell them in 3 seconds on words, you need imagary. The Vatican was the first to incorperate this style of presenting a text. Over the years we have seen this format change, take the newspaper for example. When somebody is deciding to buy a newspaper what is the first thing they see? The cover! Which consists of an image to catch your attention, a small blurb to tell you more, and then usually a fancy text or boxed texted for emphasis.
-
+The reason why I wanted to research The Vatican Vergil is because this style of text is a very popular marketing stradegy today. With an increase in social media, research shows that 59% of global customers use social media as their motivation to purchase. A majority of social media is used to images like Instagram and Facebook. With people constantly on their phones, incorperating your prodcut with an image brings them in, then the text gives them more information. The main point is that consumers have an attention span of about 3 seconds, you can't sell them in 3 seconds on words, you need imagary. The Vatican was the first to incorperate this style of presenting a text. 
 ![Vaitcan](Vatican.png)
 
 
@@ -15,13 +14,15 @@ The Vatican Vergil was beleived to be created for a wealthy artistocrate. Even t
 
 
 # The Adaptation
-I work in marketing at my organization so I created an advertisment with a Vatican Vergile style.
+I work in marketing at my organization so I created a social media advertisment for one of our trusts. We actually ran this as a paid advertisment and received tremedous results. We are a health trust specifically desgined for construction/home builders in metropolitan portland. I used our logo with the construction workers because they can relate to this.   
 ![biit](biit.png)
 
-
+# Culteral Meaning
 
 
 # Rhetorical Significance
+Over the years we have seen this format change, take the newspaper for example. When somebody is deciding to buy a newspaper what is the first thing they see? The cover! Which consists of an image to catch your attention, a small blurb to tell you more, and then usually a fancy text or boxed texted for emphasis.
+
 
 # Reflection
 # Bibliography
