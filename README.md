@@ -13,6 +13,7 @@ The Vatican Vergil was beleived to be created for a wealthy artistocrate. Even t
 
 # The Adaptation
 I work in marketing at my organization so I created a social media advertisment for one of our trusts. We actually ran this as a paid advertisment and received tremedous results. We are a health trust specifically desgined for construction/home builders in metropolitan portland. I used our logo with the construction workers because it connects insurance with construction. Then in my blurb, I talk about savings, expertise, and how great these employee benefits are. I've caught their attention, pitched them on the positives, and how they can receive a free quote instantly. The message is quick and straight to the point, only selling them on positives. Employee benefits is a confusing process and nobody likes to deal with it, the purpose of the ad is to make it sound easy and simple.
+Howard mentioned how the Vatican Vergil was passed around because people had easy access to add to it. My adaptation's are published on social media platforms such as Instagram, Twitter, & Facebook. Even though people can't directly edit the advertisment, they are constantly being circulated by others. People leave likes, comments, and emotions on them which adds a little of their own feelings toward it. In Instagram business, it actually shows you where your ads are being seen. We have reached countries all over the world (which doesn't help us business wise) but it is interesting to see your work on a global platform, similar to the Vatican Vergil. 
 
 ![biit](biit.png)
 
