@@ -7,9 +7,6 @@ The reason why I wanted to research The Vatican Vergil is because this style of 
 
 ![Vaitcan](Vatican.png)
 
-
-
-
 # Historical Context
 The Vatican Vergil was beleived to be created for a wealthy artistocrate. Even though the text has been reduced over the years, it is still known to be the most impressive surviving example of illustrated classical literary text.The Vatican Vergile is composed of many images. In the earlier illustrated images, they would only have a title above the illustration. Pages were composed on parchment but were damaged for how often the Vatican Vergil was transported. This is another reason why the Vatican is so important. Illustrations could easily be created with parchment. Parchment is made normally from animal skins such as sheep, which made it available wherever they were (Which was everywhere). This made illustrations much more available. Originally, you would only find Illuminated manuscripts in certain gospel books. Overtime as it gradually became more popular, they would illuminate complete bibles. In the Vatican Vergil image we see the text placed above and the image below. However, it is known for it's bright red surrounding becuase it seperates itself from the rest of the text. This took craftsmenship and images like the Vatican Vergil were only found belonging to people of wealth. As this design begane to become more popular, it hit larger market cities like Paris. As we look at the Vatican Vergil, there isn't emply space between text and image. After writing the text, they would use any empty space for illustrations, giving it a clean and organized look.
 
@@ -25,10 +22,8 @@ When creating the ad, I wanted to keep the image simple, yet attractive. I wante
 ![biitad](biitad.png)
 
 
-# Culteral Significance
-Throughout history, there have been many different strategies to present information. It has been produced on multiple platforms from scripts engraved on stones, to posts on facebook. But the biggest of them all? The newspaper. Even though the newspaper is slowly fading away with the boom of technology, it was the main source of information and advertisments since 1690. However, the newspaper was built on this concept from the Vatican Vergil. All the actual information is on the inside of the paper, but they sell you on the cover page. The cover page normally consists of the heading usually in a fancy text or color, a small blurb to let you know what the artical is about, and then a picture to draw you in the second you look at it.
-
-![newpaper](newspaper.jpeg)
+# Culteral Meaning
+The overall message of my adaptation is to inform my audience about our health trust and our services. However, before I can do that I have to catch their attention. Stuart Hall argues that this is the problem with the culture we are developing. Our culture demands information now and they don't want to wait for it. Hall mentions that "journalism is dying, value is dying". With an increase in accessability to information, our culture no longer has the patients to wait or explore the deeper meaning. We live in a culture where we spend seconds trying to understand something and if we're not interested than we just throw it out. Hall finished by mentioning how this is getting worse and worse. We are more focused on spreading little amounts of information to a large audience, than taking the time to find the deeper meaning.
 
 
 # Rhetorical Significance
@@ -36,12 +31,25 @@ My adapation is specificly targeting building industry companies in Metropolitan
 
 
 # Reflection
+1) If somebody viewed this outside of the class they would know that I am passionate about what I do. I used this project to help me getter a better understanding of my marketing role in my organization. The Vatican Vergile is the oldest text that we have where it incorperates illustration as a way of conveying your message. This is marketing 101 now but I wanted to get a better understanding of the importance of it and how it was developed. Then I created advertisments for my compnay based on the findings that I found during this project.
 
+2)If I had all the time in the world, I would really want to make my adaptation stand out. I created the wood logo in photoshop after using it for 1 day. If I could spend more time understanding the platform, I think I could make something very appealing, because it's all about catching the audiences attention! Specifically in the Vatican Vergil, they used the red outline as their attention graber because they didn't have many resources. Now, I have an abundent amount of resources and I think I could alter that piece of my Adaptation to something more modern.
+
+3) This project has opened my eyes to how I view the business world. Especially after diving into the impact our culture has on advertisments, everything is getting simpiler. As technology continues to grow it is going to be interesting how that impacts our culture. As somebody who grew up in this tech generation, I was blind to it. It also helped me compare older artifacts, and how they have impacted our world today. 
 # Bibliography
-Ordenes, F. V., Grewal, D., Ludwig, S., Ruyter, K. D., Mahr, D., & Wetzels, M. (2019). Cutting through Content Clutter: How Speech and Image Acts Drive Consumer Sharing of Social Media Brand Messages. Journal of Consumer Research, 45(5), 988–1012
+1)Ordenes, F. V., Grewal, D., Ludwig, S., Ruyter, K. D., Mahr, D., & Wetzels, M. (2019). Cutting through Content Clutter: How Speech and Image Acts Drive Consumer Sharing of Social Media Brand Messages. Journal of Consumer Research, 45(5), 988–1012
 
-Arogundade, O. T. (2017). Consumer, Marketing and Advertising Psychology. IFE PsychologIA, 25(1), 569–574. 
+2)Arogundade, O. T. (2017). Consumer, Marketing and Advertising Psychology. IFE PsychologIA, 25(1), 569–574. 
 
-Hongsik John Cheon, Chang-Hoan Cho, & Sutherland, J. (2007). A Meta-Analysis of Studies on the Determinants of Standardization and Localization of International Marketing and Advertising Strategies. Journal of International Consumer Marketing, 19(4), 109–147.
+3)Hongsik John Cheon, Chang-Hoan Cho, & Sutherland, J. (2007). A Meta-Analysis of Studies on the Determinants of Standardization and Localization of International Marketing and Advertising Strategies. Journal of International Consumer Marketing, 19(4), 109–147.
+
+4)Irmia, R, Gottschling M (2016) Taxonomic revision of Rochefortia Sw. (Ehretiaceae, Boraginales). Biodiversity Data Journal 4: E7720.
+
+5) Tilley, C., Spyer, P., Keane, W., Küchler, S., & Rowlands, M. (2017). Handbook of material culture. London: SAGE Publications.
+
+6) Aksu, H., Babun, L., Conti, M., Tolomei, G., & Uluagac, A. S. (2018). Advertising in the IoT Era: Vision and Challenges. IEEE Communications Magazine, 56(11), 138–144
+
+7) Giacometti, A., Campagnolo, A., MacDonald, L., Mahony, S., Robson, S., Weyrich, T., … Gibson, A. (2017). The value of critical destruction: Evaluating multispectral image processing methods for the analysis of primary historical texts. Digital Scholarship in the Humanities, 32(1), 101–122
+
 
 
