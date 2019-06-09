@@ -3,10 +3,7 @@
 
 
 # Why The Vatican Vergil?
-he reason why I wanted to research The Vatican Vergil is because we see this style of text used everyday in the marketing world. The purpose of this strategy was the catch the readers attention. They would generally make the text neat and organized so it fit with their image. They would also write their title in larger letters to make it stand out. And finally, they would often write in red writing to make it stand out from the illumination. Illuminations have had a large impact in our marketing world today. This is a strategy that we continue to see and use because it is effective and attractice to audiences. Marketing strategies mail goal is to catch their audiences attention and Illuminations have been a proven strategy to do just this. 
-
-
-![Vatican Illumination](Vatican.png)
+The reason why I wanted to research The Vatican Vergil is because we see this style of text used everyday in the marketing world. The Vatican was the first of it's kind to present an image like this. Never before did they incorperate images with meaninful text. This is a common trend in the marketing world because it gives the reader some context before even reading. It is proven that when advertising with just a block of text, a large percentage of the audience is not going to read it. Time is precious, you only have about 2 seconds to engage with somebody when marketings your product to them through a platform that is not you. When somebody is scrolling through their timeline, they are more likely to stop if your product is promoted with a attractive image, solid information, and something to catch them, like in the Vatican Vergile, the bright red outline. 
 
 
 
@@ -21,6 +18,5 @@ The Vatican Vergil was beleived to be created for a wealthy artistocrate. Even t
 
 # Reflection
 # Bibliography
+Ordenes, F. V., Grewal, D., Ludwig, S., Ruyter, K. D., Mahr, D., & Wetzels, M. (2019). Cutting through Content Clutter: How Speech and Image Acts Drive Consumer Sharing of Social Media Brand Messages. Journal of Consumer Research, 45(5), 988–1012
 
-
-e
