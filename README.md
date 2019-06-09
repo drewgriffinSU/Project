@@ -14,7 +14,7 @@ The Vatican Vergil was beleived to be created for a wealthy artistocrate. Even t
 
 
 # The Adaptation
-![BIIT](BIIT.png)
+![biit](biit.png)
 
 
 # Rhetorical Significance
