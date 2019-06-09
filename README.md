@@ -28,6 +28,8 @@ When creating the ad, I wanted to keep the image simple, yet attractive. I wante
 # Culteral Significance
 Throughout history, there have been many different strategies to present information. It has been produced on multiple platforms from scripts engraved on stones, to posts on facebook. But the biggest of them all? The newspaper. Even though the newspaper is slowly fading away with the boom of technology, it was the main source of information and advertisments since 1690. However, the newspaper was built on this concept from the Vatican Vergil. All the actual information is on the inside of the paper, but they sell you on the cover page. The cover page normally consists of the heading usually in a fancy text or color, a small blurb to let you know what the artical is about, and then a picture to draw you in the second you look at it.
 
+![newpaper](newspaper.jpeg)
+
 
 # Rhetorical Significance
 
